@@ -1,4 +1,4 @@
-# Anti Eulen
+# ClownGuard | Auto Eulen Detection
 
 Youtube: https://youtu.be/F1RuCEE4Coc
 
