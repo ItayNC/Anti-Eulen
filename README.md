@@ -38,11 +38,3 @@ Anti Damage modifiers
 Anti Client Triggers Events
 Anti Server Triggers Events
 Anti Vehicle Speedhack
-
-
-Tags
-#clownguard #gtarpanticheat #gtarp #gtaonline
-#fivemanticheat #anticheat #antieulen #fivem #fivemrp
-#bestfivemanticheat #bestanticheat #fivembestanticheat
-#antidump #antispawnpeds #antispawnpickups #antinoclip
-#antidumper #antifindtriggers
